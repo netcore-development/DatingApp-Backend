@@ -12,3 +12,31 @@ C:\Users\bgarc\Desktop\MitoCode Network - DotNet\DatingApp.API\obj\Debug\netcore
 C:\Users\bgarc\Desktop\MitoCode Network - DotNet\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.RazorTargetAssemblyInfo.cache
 C:\Users\bgarc\Desktop\MitoCode Network - DotNet\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.dll
 C:\Users\bgarc\Desktop\MitoCode Network - DotNet\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.pdb
+C:\Users\bgarc\Desktop\Proyecto Final\DatingApp-Backend\bin\Debug\netcoreapp2.2\DatingApp.API.deps.json
+C:\Users\bgarc\Desktop\Proyecto Final\DatingApp-Backend\bin\Debug\netcoreapp2.2\DatingApp.API.runtimeconfig.json
+C:\Users\bgarc\Desktop\Proyecto Final\DatingApp-Backend\bin\Debug\netcoreapp2.2\DatingApp.API.runtimeconfig.dev.json
+C:\Users\bgarc\Desktop\Proyecto Final\DatingApp-Backend\bin\Debug\netcoreapp2.2\DatingApp.API.dll
+C:\Users\bgarc\Desktop\Proyecto Final\DatingApp-Backend\bin\Debug\netcoreapp2.2\DatingApp.API.pdb
+C:\Users\bgarc\Desktop\Proyecto Final\DatingApp-Backend\obj\Debug\netcoreapp2.2\DatingApp.API.csprojAssemblyReference.cache
+C:\Users\bgarc\Desktop\Proyecto Final\DatingApp-Backend\obj\Debug\netcoreapp2.2\DatingApp.API.csproj.CoreCompileInputs.cache
+C:\Users\bgarc\Desktop\Proyecto Final\DatingApp-Backend\obj\Debug\netcoreapp2.2\DatingApp.API.RazorAssemblyInfo.cache
+C:\Users\bgarc\Desktop\Proyecto Final\DatingApp-Backend\obj\Debug\netcoreapp2.2\DatingApp.API.RazorAssemblyInfo.cs
+C:\Users\bgarc\Desktop\Proyecto Final\DatingApp-Backend\obj\Debug\netcoreapp2.2\DatingApp.API.AssemblyInfoInputs.cache
+C:\Users\bgarc\Desktop\Proyecto Final\DatingApp-Backend\obj\Debug\netcoreapp2.2\DatingApp.API.AssemblyInfo.cs
+C:\Users\bgarc\Desktop\Proyecto Final\DatingApp-Backend\obj\Debug\netcoreapp2.2\DatingApp.API.RazorTargetAssemblyInfo.cache
+C:\Users\bgarc\Desktop\Proyecto Final\DatingApp-Backend\obj\Debug\netcoreapp2.2\DatingApp.API.dll
+C:\Users\bgarc\Desktop\Proyecto Final\DatingApp-Backend\obj\Debug\netcoreapp2.2\DatingApp.API.pdb
+C:\Users\bgarc\Desktop\MitoCode - DotNet Core\DatingApp-Backend\obj\Debug\netcoreapp2.2\DatingApp.API.csprojAssemblyReference.cache
+C:\Users\bgarc\Desktop\MitoCode - DotNet Core\DatingApp-Backend\obj\Debug\netcoreapp2.2\DatingApp.API.csproj.CoreCompileInputs.cache
+C:\Users\bgarc\Desktop\MitoCode - DotNet Core\DatingApp-Backend\obj\Debug\netcoreapp2.2\DatingApp.API.RazorAssemblyInfo.cache
+C:\Users\bgarc\Desktop\MitoCode - DotNet Core\DatingApp-Backend\obj\Debug\netcoreapp2.2\DatingApp.API.RazorAssemblyInfo.cs
+C:\Users\bgarc\Desktop\MitoCode - DotNet Core\DatingApp-Backend\obj\Debug\netcoreapp2.2\DatingApp.API.AssemblyInfoInputs.cache
+C:\Users\bgarc\Desktop\MitoCode - DotNet Core\DatingApp-Backend\obj\Debug\netcoreapp2.2\DatingApp.API.AssemblyInfo.cs
+C:\Users\bgarc\Desktop\MitoCode - DotNet Core\DatingApp-Backend\obj\Debug\netcoreapp2.2\DatingApp.API.dll
+C:\Users\bgarc\Desktop\MitoCode - DotNet Core\DatingApp-Backend\obj\Debug\netcoreapp2.2\DatingApp.API.pdb
+C:\Users\bgarc\Desktop\MitoCode - DotNet Core\DatingApp-Backend\bin\Debug\netcoreapp2.2\DatingApp.API.deps.json
+C:\Users\bgarc\Desktop\MitoCode - DotNet Core\DatingApp-Backend\bin\Debug\netcoreapp2.2\DatingApp.API.runtimeconfig.json
+C:\Users\bgarc\Desktop\MitoCode - DotNet Core\DatingApp-Backend\bin\Debug\netcoreapp2.2\DatingApp.API.runtimeconfig.dev.json
+C:\Users\bgarc\Desktop\MitoCode - DotNet Core\DatingApp-Backend\bin\Debug\netcoreapp2.2\DatingApp.API.dll
+C:\Users\bgarc\Desktop\MitoCode - DotNet Core\DatingApp-Backend\bin\Debug\netcoreapp2.2\DatingApp.API.pdb
+C:\Users\bgarc\Desktop\MitoCode - DotNet Core\DatingApp-Backend\obj\Debug\netcoreapp2.2\DatingApp.API.RazorTargetAssemblyInfo.cache

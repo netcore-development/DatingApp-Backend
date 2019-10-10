@@ -28,8 +28,8 @@ namespace DatingApp.API
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<DbContextPostgreSql>(x=> x.UseNpgsql(Configuration.GetConnectionString("PostgreSqlConnection")));
-            services.AddDbContext<DbContextSqlite>(x=> x.UseSqlite(Configuration.GetConnectionString("SqliteConnection")));
-            services.AddDbContext<DbContextSqlServer>(x=> x.UseSqlServer(Configuration.GetConnectionString("SqlServerConnection")));
+            // services.AddDbContext<DbContextSqlite>(x=> x.UseSqlite(Configuration.GetConnectionString("SqliteConnection")));
+            // services.AddDbContext<DbContextSqlServer>(x=> x.UseSqlServer(Configuration.GetConnectionString("SqlServerConnection")));
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
             services.AddCors();
         }

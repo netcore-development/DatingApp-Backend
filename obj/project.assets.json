@@ -12498,23 +12498,26 @@
   },
   "packageFolders": {
     "C:\\Users\\bgarc\\.nuget\\packages\\": {},
+    "C:\\ProgramData\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\bgarc\\Desktop\\MitoCode Network - DotNet\\DatingApp.API\\DatingApp.API.csproj",
+      "projectUniqueName": "C:\\Users\\bgarc\\Desktop\\MitoCode - DotNet Core\\DatingApp-Backend\\DatingApp.API.csproj",
       "projectName": "DatingApp.API",
-      "projectPath": "c:\\Users\\bgarc\\Desktop\\MitoCode Network - DotNet\\DatingApp.API\\DatingApp.API.csproj",
+      "projectPath": "C:\\Users\\bgarc\\Desktop\\MitoCode - DotNet Core\\DatingApp-Backend\\DatingApp.API.csproj",
       "packagesPath": "C:\\Users\\bgarc\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\bgarc\\Desktop\\MitoCode Network - DotNet\\DatingApp.API\\obj\\",
+      "outputPath": "C:\\Users\\bgarc\\Desktop\\MitoCode - DotNet Core\\DatingApp-Backend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\ProgramData\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\bgarc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"

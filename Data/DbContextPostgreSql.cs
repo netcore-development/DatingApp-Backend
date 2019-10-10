@@ -7,7 +7,6 @@ namespace DatingApp.API.Data
     {
         public DbContextPostgreSql(DbContextOptions<DbContextPostgreSql>options) : base(options) {}
         public DbSet<Value> Values{get;set;}
-        public DbSet<Person> Persons{get;set;} 
 
         
     }
