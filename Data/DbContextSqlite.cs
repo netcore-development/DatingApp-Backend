@@ -1,7 +1,7 @@
-using DatingApp.API.Models;
+using DatingApp_Backend.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace DatingApp.API.Data
+namespace DatingApp_Backend.Data
 {
     public class DbContextSqlite : DbContext
     {
